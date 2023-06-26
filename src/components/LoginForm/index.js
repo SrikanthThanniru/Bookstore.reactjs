@@ -92,12 +92,12 @@ class LoginForm extends Component {
     return (
       <div className="login-form-container">
         <img
-          src="https://res.cloudinary.com/dgl2qd8ou/image/upload/v1644738486/Rectangle_1467_1_gadcfh.png"
+          src="https://images.pexels.com/photos/3060324/pexels-photo-3060324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
           alt="prop"
           className="login-image"
         />
         <img
-          src="https://res.cloudinary.com/dgl2qd8ou/image/upload/v1644738610/Ellipse_99_1_ck7aa3.png"
+          src="https://images.pexels.com/photos/3060324/pexels-photo-3060324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
           alt="prop"
           className="login-website-logo-mobile-image"
         />
