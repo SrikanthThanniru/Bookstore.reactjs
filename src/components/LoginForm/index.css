@@ -29,6 +29,9 @@
 
 .login-image {
   width: 278px;
+  height: 80vh;
+  margin-top: 30vh;
+  border-radius: 7px;
 }
 
 @media screen and (min-width: 992px) {
@@ -37,11 +40,15 @@
     max-width: 524px;
     flex-shrink: 1;
     margin-right: 20px;
+    margin-top: 30vh;
+    border-radius: 7px;
   }
 }
 
 .login-website-logo-desktop-image {
   width: 25px;
+  margin-top: 15vh;
+  border-radius: 4px;
 }
 
 @media screen and (max-width: 991px) {
